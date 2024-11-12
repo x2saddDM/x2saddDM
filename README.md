@@ -20,18 +20,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=x2saddDM&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
-</p>
-
-![Footer](./footer.png)
-
-<p align="center">
   <a href="https://discord.com/users/1185547624913318029">
     <img src="https://lanyard.cnrad.dev/api/1185547624913318029" alt="Discord Presence"/>
   </a>
 </p>
 
-<!---
-x2saddDM/x2saddDM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=x2saddDM&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
+</p>
+
+![Footer](./footer.png)
