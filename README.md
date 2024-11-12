@@ -13,19 +13,23 @@
     <img src="https://skillicons.dev/icons?i=py,nodejs,html"/>
 </p>
 
-                                                       discord.gg/funvex
-                                                        Ruin-lek Dev
-                                                         x2saddddm.lol/$
-<br>
+<p align="center">
+  discord.gg/funvex <br>
+  Ruin-lek Dev <br>
+  x2saddddm.lol/$
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=x2saddDM&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
 </p>
 
 ![Footer](./footer.png)
-  
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1185547624913318029)](https://discord.com/users/1185547624913318029)
+<p align="center">
+  <a href="https://discord.com/users/1185547624913318029">
+    <img src="https://lanyard.cnrad.dev/api/1185547624913318029" alt="Discord Presence"/>
+  </a>
+</p>
 
 <!---
 x2saddDM/x2saddDM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
