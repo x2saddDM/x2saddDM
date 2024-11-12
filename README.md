@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @x2saddDM
-- 👀 I’m interested in JS lang
-- 🌱 I’m currently learning Node JS
+- 👀 I’m interested in JS and Go lang
+- 🌱 I’m currently learning Node JS, Go, c#
 - 😄 Pronouns: He - Him
-- ⚡ Fun fact: i need to change new key caps and switch for my keyboard every 2 months
-
+- Contact: Discord: x2saddddm.lol | .gg/funvex
+  
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1185547624913318029)](https://discord.com/users/1185547624913318029)
 
