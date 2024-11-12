@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=py,nodejs,html"/>
 </p>
 
-- discord.gg/funvex
+                          discord.gg/funvex
 
 <br>
 
