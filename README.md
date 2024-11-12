@@ -13,8 +13,9 @@
     <img src="https://skillicons.dev/icons?i=py,nodejs,html"/>
 </p>
 
-                                                      discord.gg/funvex
-
+                                                       discord.gg/funvex
+                                                        Ruin-lek Dev
+                                                         x2saddddm.lol/$
 <br>
 
 <p align="center">
