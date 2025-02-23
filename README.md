@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  discord.gg/funvex <br>
+  discord.gg/nocaptcha <br>
   Ruin-lek Dev <br>
   x2saddddm.lol/$
 </p>
